@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">デモアプリ用データベース</string>
+    <string name="action_settings">Settings</string>
+    <string name="new_button">新規作成</string>
+    <string name="location_text">場所</string>
+    <string name="wifiInfo_text">Wi-Fi情報</string>
+    <string name="save_button">保存</string>
+    <string-array name="location_items">
+        <item >Windwos</item>
+        <item >Mac OS X</item>
+        <item >Linux</item>
+        <item >UNIX</item>
+        <item >Android</item>
+        <item >iOS</item>
+        <item >Chrome OS</item>
+    </string-array>
+
+</resources>
